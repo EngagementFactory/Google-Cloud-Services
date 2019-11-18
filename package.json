@@ -1,0 +1,25 @@
+{
+  "name": "cloud-services",
+  "version": "1.0.0",
+  "description": "Node API for integrating with Google Cloud API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngagementFactory/Google-Cloud-Services.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "cloud",
+    "api"
+  ],
+  "author": "Engagement Factory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngagementFactory/Google-Cloud-Services/issues"
+  },
+  "homepage": "https://github.com/EngagementFactory/Google-Cloud-Services#readme"
+}
