@@ -24,6 +24,6 @@
   "homepage": "https://github.com/EngagementFactory/Google-Cloud-Services#readme",
   "dependencies": {
     "@google-cloud/language": "^3.6.2",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
